@@ -7,6 +7,8 @@ Then, I fitted the light curves simultaneously (semi-major axis and inclination 
 
 Values obtained by simultaneous and individual fitting were compared to each other and then compared to the values from Morton (2016) paper.
 
+For light curve modeling, I used the Batman library: https://github.com/lkreidberg/batman.
+
 ## Results
 
 
