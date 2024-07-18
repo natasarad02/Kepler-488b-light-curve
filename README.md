@@ -1,5 +1,7 @@
 # Simultaneous light curve fitting of Kepler-488 b transit through multiple filters (Petnica project 2021)
 
+<img src="poster.png" alt="Project summary">
+
 In order to collect transit data for B and V filter, I processed photometric images of the Kepler-488 b exoplanet system. The software I used for image processing is called AstroImageJ. 
 Light curves were individually fitted through these two filters and then I used them to calculate transit parameters: inclination, semi-major axis length, planet radius and limb darkening coefficients. Eccentricity, orbital period and star radius were fixed. I assumed that the limb darkening coefficients changed according to the linear law.
 
